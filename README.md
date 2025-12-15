@@ -41,7 +41,8 @@ Web and Mobile App Development, UI/UX Design
 ## 🛠 Tech Stack
 ### 🛠 Tech Stack
 
-- **Mobile Development:** Flutter, Dart, Android Studio  
+- **Mobile Development:** Flutter, Dart, Android Studio
+- **Web Development:** JavaScript, React, Nodejs (Beginner) 
 - **Backend & Cloud:** Firebase (Auth, Firestore, Cloud Functions)  
 - **UI/UX & Design:** Figma, TailwindCSS, HTML5, CSS3  
 - **Programming & Data:** Python (basics, file handling, data processing), C, C++
