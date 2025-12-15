@@ -61,7 +61,7 @@ Web and Mobile App Development, UI/UX Design
 - Medication reminders & duplicate scan detection
 - Medication Information Management System
 - Firebase-integrated backend  
-🔗 Repository: **
+🔗 Repository: *https://github.com/nishapandey9098/MediMate_your-smart-medicine-assistant*
 
 #### 🌏 Travel Buddy - Connect with travellers
 - Create User profile 
